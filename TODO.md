@@ -1,4 +1,4 @@
-- [https://github.com/NOFAXKING/postcraft.git ] Confirm repo initialization requirements (local name, GitHub remote, branch)
+- [ ] Confirm repo initialization requirements (local name, GitHub remote, branch)
 - [ ] Initialize git repo if missing
 - [ ] Add/commit existing code
 - [ ] Create GitHub repo (or connect to existing) and add remote
